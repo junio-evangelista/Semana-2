@@ -1,0 +1,91 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 2px-px black;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+iframe{
+    text-align: center;
+    width: 950px;
+    height: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+img{
+    margin-top: 20px;
+    width: 950px;
+    height: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.fundo{
+    border: black solid;
+    text-align: center;
+    width: 1300px;
+    height: 450px;
+    background-image: url(grupo-de-medicos.jpg);
+    margin-right: 10px;  
+    margin-top: 20px;
+    margin-left: 20PX;
+}
+p{
+    text-align: left;
+    font-size: 25px;
+    height: 40px;
+    margin-top: 2px;
+    
+    
+}
+#video{
+    text-align:left;
+    margin-top: 20px;
+    height: 400px;
+    margin-bottom: 50px;
+    margin-right: 30px ;
+}
+body{
+    margin-top: 20px;
+    background-color: cornsilk; 
+}
+a{
+    font-size: 25px;
+}
+h3{
+    font-size: 35px;
+    text-align: left;
+    color: green;
+}
+.mets img{
+    max-width: 150px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+    text-align: justify;
+    margin-left: 10px;
+   
+} 
+.mets p{
+    text-align: left; 
+    margin-left: 10px;
+    font-size: 25px;
+    
+}
+.mets{
+    border: black solid;
+    text-align: left;
+}
+h4{
+    font-size: 25px;
+}
+
+
