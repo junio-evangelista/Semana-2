@@ -1,0 +1,75 @@
+h1, h2, h3{
+    text-align: center;
+
+
+}
+h1{
+    color: yellow;
+    font-size: 50px;
+}
+h2{
+    color: blue;
+    font-size: 35px;
+}
+h3{
+    color:green;
+    font-size:30px;
+}
+a{
+    border: solid red;
+    color:white;
+}
+iframe{
+    margin: 0 auto;
+}
+p{
+    font-size: 26px;
+    color: white ;
+}
+body{
+    background-color:black;
+}
+.um{
+    text-align: center;
+    border: 1px solid rgb(216, 30, 30);
+    width: 50%;
+    height: 350px;
+    float: center;
+    width: 1300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    background-image:url(download-768x511.jpeg);
+
+}
+.dois{
+    background-color:;
+      text-align: center;
+        border: 1px solid red;
+        width: 50%;
+        height: 550px;
+        float: center;
+        width: 1300px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        margin-right: 20px;
+        
+}
+.tres{
+    text-align: center;
+    border: 1px solid green;
+    width: 50%;
+    margin: 0 auto;
+    height: 1325px;
+    float: center;
+    width: 1300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+img{
+    height: 250px;
+}
